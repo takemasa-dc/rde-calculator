@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "RDE Calculator"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Ishikawa"
+    given-names: "Takemasa"
+    orcid: "https://orcid.org/0000-0003-0564-7172"
+abstract: "A lightweight Python implementation for calculating Response Distribution Entropy from option-level response counts or proportions."
+keywords:
+  - response distribution entropy
+  - RDE
+  - multiple-choice items
+  - selected-response items
+  - item analysis
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-10"
+repository-code: "https://github.com/takemasa-dc/rde-calculator"
