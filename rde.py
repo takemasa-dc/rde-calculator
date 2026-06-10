@@ -1,10 +1,3 @@
-"""
-Response Distribution Entropy (RDE) calculator.
-
-This module provides simple functions for calculating Response Distribution
-Entropy from option-level response counts or proportions.
-"""
-
 from __future__ import annotations
 
 import math
