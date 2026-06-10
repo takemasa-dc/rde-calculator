@@ -14,6 +14,6 @@ keywords:
   - selected-response items
   - item analysis
 license: MIT
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-06-10"
 repository-code: "https://github.com/takemasa-dc/rde-calculator"
