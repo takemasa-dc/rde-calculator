@@ -1,11 +1,3 @@
-```python
-"""
-Example usage of the Response Distribution Entropy (RDE) calculator.
-
-This script reads option-level response counts or proportions from example.csv
-and calculates RDE and the effective number of options for each item.
-"""
-
 import pandas as pd
 
 from rde import calculate_rde, calculate_effective_options
@@ -46,4 +38,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
