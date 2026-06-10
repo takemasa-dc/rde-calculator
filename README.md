@@ -12,9 +12,9 @@ This implementation is designed for researchers, educators, and assessment devel
 
 For item (j) with (m_j) response options, let (p_{jk}) denote the proportion of valid responses assigned to option (k). RDE is defined as the Shannon entropy of the item response distribution, normalised by the theoretical maximum entropy for the number of available response options:
 
-[
-RDE_j = \frac{-\sum_{k=1}^{m_j} p_{jk} \log(p_{jk})}{\log(m_j)}
-]
+```math
+RDE_j = \frac{-\sum_{k=1}^{m_j} p_{jk}\log(p_{jk})}{\log(m_j)}
+```
 
 Terms with (p_{jk} = 0) are treated as zero. The natural logarithm is used by default.
 
