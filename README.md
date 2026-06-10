@@ -33,9 +33,9 @@ RDE does not identify why a response distribution has a particular shape. A high
 
 The repository also includes a function for calculating the effective number of options:
 
-[
+```math
 \exp(H_j)
-]
+```
 
 where (H_j) is the unnormalised Shannon entropy of the response distribution. The effective number of options can be interpreted as the number of equally used options that would produce the same entropy.
 
