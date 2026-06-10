@@ -130,9 +130,8 @@ Interpretation of RDE should be combined with item content review, correct respo
 
 ## Citation
 
-If you use this code, please cite the associated article or archived software release.
-
-A Zenodo DOI will be added after the first public release.
+If you use this code, please cite the archived software release:
+Ishikawa T. RDE Calculator. Zenodo. 2026. doi:10.5281/zenodo.20619375
 
 ## License
 
